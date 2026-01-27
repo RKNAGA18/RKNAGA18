@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RKNAGA18
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in python, jave, verilog
+- 🌱 I’m currently learning c, embedded c , perl, tcl
 - 💞️ I’m looking to collaborate on begginers
 - 📫 How to reach me through mail
 - 😄 Pronouns: me
