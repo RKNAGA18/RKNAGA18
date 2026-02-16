@@ -1,16 +1,16 @@
-# Hi there, I'm R Naga Arjun 👋
+# I'm R Naga Arjun,
 
-I am a **B.Tech Electronics Engineering** student at **VIT Chennai**, specializing in **VLSI Design & Technology** (Class of 2028). I am passionate about the intersection of high-performance hardware architecture and intelligent software systems.
+  a **B.Tech Electronics Engineering** student at **VIT Chennai**, specializing in **VLSI Design & Technology** (Class of 2028). I am passionate about the intersection of high-performance hardware architecture and intelligent software systems.
 
 ---
 
-### 🚀 Current Focus & Projects
+### Current Focus & Projects
 - **VLSI & Architecture:** Architecting a RISC-V based System-on-Chip (SoC) for the **1-TOPS initiative**.
 - **Automation:** Developing **Perl-based automation** scripts for Verilog generation of FIR filters and arithmetic units.
 - **Generative AI:** Implementing **SGMSE+** (Generative Speech Enhancement) using PyTorch and diffusion models.
 - **Cybersecurity:** Developing an **Agentic Honey-Pot** for automated scam detection and data extraction.
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 - **Hardware:** Verilog, RTL Design, Vivado, RISC-V Toolchain
 - **Software:** Python (PyTorch, AI/ML), C++, Perl, Bash
 - **Specializations:** Signal Processing (DOA Estimation), Adaptive Power Management, VLSI Design
@@ -18,7 +18,7 @@ I am a **B.Tech Electronics Engineering** student at **VIT Chennai**, specializi
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - **LinkedIn:** [linkedin.com/in/rnagaarjun18](https://linkedin.com/in/rnagaarjun18)
 - **Portfolio:** [https://rknaga18.github.io/personeweb/]
 - **Email:** rknarjun396@gmail.com
