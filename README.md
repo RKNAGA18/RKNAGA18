@@ -1,4 +1,4 @@
-# I'm R Naga Arjun,
+# R Naga Arjun,
 
   a **B.Tech Electronics Engineering** student at **VIT Chennai**, specializing in **VLSI Design & Technology** (Class of 2028). I am passionate about the intersection of high-performance hardware architecture and intelligent software systems.
 
