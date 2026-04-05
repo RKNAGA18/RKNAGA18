@@ -81,8 +81,8 @@
   <a href="https://github.com/black-parrot/black-parrot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=black-parrot&repo=black-parrot&theme=onedark&show_icons=true" alt="BlackParrot Open Source Contributions" />
   </a>
-  <a href="https://github.com/RKNAGA18/YOUR_PYTHON_OR_CNN_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RKNAGA18&repo=YOUR_PYTHON_OR_CNN_REPO_NAME&theme=onedark&show_icons=true" alt="Python/CNN Project" />
+  <a href="https://github.com/RKNAGA18/personeweb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RKNAGA18&repo=personeweb&theme=onedark&show_icons=true" alt="Python/CNN Project" />
   </a>
 </p>
 
