@@ -103,7 +103,7 @@
 <br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&layout=compact&count_private=true&v=1)](https://github.com/RKNAGA18)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/RKNAGA18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/RKNAGA18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/RKNAGA18)
 
 </div>
 
