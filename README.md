@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Arjun.;Architecting+Open-Source+Logic.;Building+the+Future+of+Silicon." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Naga+Arjun.;Architecting+Open-Source+Logic.;Building+the+Future+of+Silicon." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-###  `cat ~/workspace/profile/config.yaml`
+### `cat ~/workspace/profile/config.yaml`
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
@@ -35,12 +35,12 @@
 <pre><strong>$ system_info --fetch</strong>
 
   <strong>FOCUS:</strong>      "Open-Source Silicon & Trace Encoders"
-  <strong>KNOWS:</strong>      "SystemVerilog, C/C++, Python, TCL, Perl"
+  <strong>KNOWS:</strong>      "SystemVerilog, verilog, C/C++, Python, TCL, Perl, java"
   <strong>BUILDING:</strong>   "<em>RISC-V Backend Assertions & L2 Checks</em>"
-  <strong>PROJECTS:</strong>   ["BlackParrot", "Oorva", "Robo-Fish"]
+  <strong>PROJECTS:</strong>   ["BlackParrot", "CNN VLSI Accelerator", "GaN HEMT TCAD"]
   <strong>MAJOR:</strong>      "<em>B.Tech Electronics Eng (VLSI)</em>"
   <strong>COLLEGE:</strong>    "<em>Vellore Institute of Technology</em>"
-  <strong>CONTACT:</strong>    "<a href="mailto:nagaarjun396@gmail.com"><strong>ping via email</strong></a>"
+  <strong>CONTACT:</strong>    "<a href="mailto:rknarjun396@gmail.com"><strong>ping via email</strong></a>"
 </pre>
 
   </td>
@@ -52,7 +52,7 @@
 
 ---
 
-###  `System Architecture`
+### `System Architecture`
 
 <div align="center">
 <pre><strong> [root@R_NAGA_ARJUN ~]# ./fetch_subsystems.sh </strong>
@@ -69,42 +69,27 @@
 
 ---
 
-###  `git stats --all`
+### `git stats --all`
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RKNAGA18&style=flat-square&color=00FFCC&label=Profile+Views&labelColor=1e1e1e" alt="Views"/>
 </div>
 <br>
 
-<p align="center">
-  <a href="https://github.com/RKNAGA18">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/RKNAGA18">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RKNAGA18&theme=onedark&hide_border=true" alt="GitHub Streak">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RKNAGA18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&layout=compact&count_private=true" alt="Top Languages">
-  </a>
-</p>
-
----
-
-###  `Contribution Snake`
-
 <div align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-  </picture>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&count_private=true&v=1)](https://github.com/RKNAGA18)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKNAGA18&theme=onedark&hide_border=true)](https://github.com/RKNAGA18)
+
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&layout=compact&count_private=true&v=1)](https://github.com/RKNAGA18)
+
 </div>
 
 ---
 
-###  `sudo wisdom`
+### `sudo wisdom`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=A9A9A9&center=true&vCenter=true&width=800&lines=%22Design+for+constraints.+Build+for+scale.+Contribute+to+the+collective.%22;%22Hardware+eventually+fails.+Software+eventually+works.%22;%22Any+sufficiently+advanced+technology+is+indistinguishable+from+magic.%22" alt="Animated Quotes" />
