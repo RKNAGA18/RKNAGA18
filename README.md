@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Naga+Arjun.;Architecting+Open-Source+Logic.;Bridging+Software+and+Silicon." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=NagaArjun+Here.;Architecting+Open-Source+Logic.;Bridging+Software+and+Silicon." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/rknaga18">
+  <a href="https://leetcode.com/u/nagaarjun18/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35" style="border-radius: 5px;"/>
   </a>
   &nbsp;&nbsp;
@@ -49,7 +49,7 @@
 
   </td>
   <td width="45%" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E2am5peHA3ZWF1anJ1ZW8wYjUyZTRwMThqM3c5eTgxMmVqZjBkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="280" style="border-radius: 10px;" alt="Circuit GIF" />
+    <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xjNml2aWdja2kxc244M3hncWJyeXlnZ2o2OTVtd2Nub3N4YWp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xIytx7kHpq74c/giphy.gif width="280" style="border-radius: 10px;" alt="Circuit GIF" />
   </td>
   </tr>
 </table>
@@ -82,7 +82,6 @@
 | **BlackParrot** | Contributed safety assertions to a Linux-capable, cache-coherent, RV64G multicore processor. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/black-parrot/black-parrot) |
 | **GaN HEMT Reliability** | TCAD-based optimization of 650V GaN-on-Si HEMTs for EV fast charging applications. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](#) |
 
-*(Note: Replace the `#` in the links above with the actual URLs to your CNN and TCAD repositories!)*
 
 ---
 
@@ -101,7 +100,7 @@
 <br>
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RKNAGA18&theme=onedark)](https://github.com/RKNAGA18)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rknaga18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/rknaga18)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nagaarjun18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/nagaarjun18/)
 
 </div>
 
