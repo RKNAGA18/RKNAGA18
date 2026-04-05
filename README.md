@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/r-naga-arjun">
+  <a href="https://www.linkedin.com/in/rnagaarjun18">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
@@ -19,18 +19,18 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/rknaga18">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35" style="border-radius: 5px;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:nagaarjun396@gmail.com">
+  <a href="mailto:rknarjun396@gmail.com">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="35" height="35"/>
   </a>
 </p>
 
 ---
 
-###  `cat ~/workspace/profile/config.yaml`
+### `cat ~/workspace/profile/config.yaml`
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
@@ -56,7 +56,7 @@
 
 ---
 
-###  `Current Workflow & Tech Stack`
+### `Current Workflow & Tech Stack`
 
 <div align="center">
 <pre><strong> [root@R_NAGA_ARJUN ~]# ./display_workflow.sh </strong>
@@ -75,20 +75,18 @@
 
 ---
 
-###  `Previous Repos & Open-Source Work`
+### `Previous Repos & Open-Source Work`
 
-<p align="center">
-  <a href="https://github.com/black-parrot/black-parrot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=black-parrot&repo=black-parrot&theme=onedark&show_icons=true" alt="BlackParrot Open Source Contributions" />
-  </a>
-  <a href="https://github.com/RKNAGA18/personeweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RKNAGA18&repo=personeweb&theme=onedark&show_icons=true" alt="Python/CNN Project" />
-  </a>
-</p>
+|  Project Name |  Description |  Link |
+| :--- | :--- | :--- |
+| **BlackParrot** | Contributed safety assertions to a Linux-capable, cache-coherent, RV64G multicore processor. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/black-parrot/black-parrot) |
+| **GaN HEMT Reliability** | TCAD-based optimization of 650V GaN-on-Si HEMTs for EV fast charging applications. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](#) |
+
+*(Note: Replace the `#` in the links above with the actual URLs to your CNN and TCAD repositories!)*
 
 ---
 
-###  `git stats --all`
+### `git stats --all`
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RKNAGA18&style=flat-square&color=00FFCC&label=Profile+Views&labelColor=1e1e1e" alt="Views"/>
@@ -97,19 +95,19 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&count_private=true&v=1)](https://github.com/RKNAGA18)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKNAGA18&theme=onedark&hide_border=true)](https://github.com/RKNAGA18)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RKNAGA18&theme=onedark)](https://github.com/RKNAGA18)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RKNAGA18&theme=onedark&hide_border=true&v=999)](https://github.com/RKNAGA18)
 
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RKNAGA18&theme=onedark&show_icons=true&hide_border=true&layout=compact&count_private=true&v=1)](https://github.com/RKNAGA18)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/RKNAGA18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/RKNAGA18)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RKNAGA18&theme=onedark)](https://github.com/RKNAGA18)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rknaga18?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/rknaga18)
 
 </div>
 
 ---
 
-###  `sudo wisdom`
+### `sudo wisdom`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=A9A9A9&center=true&vCenter=true&width=800&lines=%22Design+for+constraints.+Build+for+scale.+Contribute+to+the+collective.%22;%22Hardware+eventually+fails.+Software+eventually+works.%22;%22Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds%22" alt="Animated Quotes" />
