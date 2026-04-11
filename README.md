@@ -38,13 +38,13 @@
 
 <pre><strong>$ system_info --fetch</strong>
 
-  <strong>FOCUS:</strong>      "RTL Design, Verification & Arch"
-  <strong>LANGUAGES:</strong>  "Python, SystemVerilog, C/C++, TCL"
-  <strong>BUILDING:</strong>   "<em>RISC-V Verification & Algorithms</em>"
-  <strong>PROJECTS:</strong>   ["CNN VLSI Accelerator", "GaN HEMT TCAD"]
-  <strong>GRINDING:</strong>   "<em>LeetCode (Data Structures & Algos)</em>"
-  <strong>MAJOR:</strong>      "<em>B.Tech Electronics Eng (VLSI)</em>"
-  <strong>COLLEGE:</strong>    "<em>Vellore Institute of Technology</em>"
+  <strong>FOCUS:</strong>      RTL Design, Verification & Arch
+  <strong>LANGUAGES:</strong>  Python, SystemVerilog, C/C++, TCL
+  <strong>BUILDING:</strong>   <em>RISC-V Verification & Algorithms</em>
+  <strong>PROJECTS:</strong>   CNN VLSI Accelerator", "GaN HEMT TCAD
+  <strong>GRINDING:</strong>   <em>LeetCode (Data Structures & Algos)</em>
+  <strong>MAJOR:</strong>      <em>B.Tech Electronics Eng (VLSI)</em>
+  <strong>COLLEGE:</strong>    <em>Vellore Institute of Technology</em>
 </pre>
 
   </td>
@@ -55,6 +55,13 @@
 </table>
 
 ---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake.svg" width="60%">
+  </picture>
+</div>
 
 ### `Current Workflow & Tech Stack`
 
