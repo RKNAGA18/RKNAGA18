@@ -87,7 +87,7 @@
 |  Project Name |  Description |  Link |
 | :--- | :--- | :--- |
 | **BlackParrot** | Contributed safety assertions to a Linux-capable, cache-coherent, RV64G multicore processor. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/black-parrot/black-parrot) |
-| **GaN HEMT Reliability** | TCAD-based optimization of 650V GaN-on-Si HEMTs for EV fast charging applications. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](#) |
+| **GaN HEMT Reliability** | TCAD-based optimization of 650V GaN-on-Si HEMTs for EV fast charging applications. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/RKNAGA18/AlGaN-GaN-HEMT-TCAD.git) |
 
 
 ---
