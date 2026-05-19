@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=NagaArjun+Here.;Architecting+Open-Source+Logic.;Bridging+Software+and+Silicon." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=R+Naga+Arjun+Here.;Architecting+Open-Source+Silicon.;Bridging+Edge+AI+and+Hardware.;RTL+to+GDSII+%7C+Verification+%7C+RISC-V" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/RKNAGA18">
-    <img src="https://img.shields.io/badge/Status-Building_&_Learning-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Status">
+    <img src="https://img.shields.io/badge/Status-Building_&_Innovating_Silicon-00FFCC?style=for-the-badge&logo=github&logoColor=black" alt="Status">
   </a>
 </p>
 
@@ -38,12 +38,12 @@
 
 <pre><strong>$ system_info --fetch</strong>
 
-  <strong>FOCUS:</strong>      RTL Design, Verification & Arch
-  <strong>LANGUAGES:</strong>  Python, SystemVerilog, C/C++, TCL
-  <strong>BUILDING:</strong>   <em>RISC-V Verification & Algorithms</em>
-  <strong>PROJECTS:</strong>   CNN VLSI Accelerator", "GaN HEMT TCAD
-  <strong>GRINDING:</strong>   <em>LeetCode (Data Structures & Algos)</em>
-  <strong>MAJOR:</strong>      <em>B.Tech Electronics Eng (VLSI)</em>
+  <strong>FOCUS:</strong>      ASIC Design, RTL-to-GDSII Flow, AI Hardware
+  <strong>LANGUAGES:</strong>  SystemVerilog, Verilog, C/C++, Python
+  <strong>SCRIPTING:</strong>  TCL, Perl, Bash
+  <strong>BUILDING:</strong>   <em>RISC-V Architecture & Edge AI Accelerators</em>
+  <strong>HONORS:</strong>     <em>Samsung Fellowship (Grade II)</em>
+  <strong>MAJOR:</strong>      <em>B.Tech Electronics Eng (VLSI) | CGPA: 8.84</em>
   <strong>COLLEGE:</strong>    <em>Vellore Institute of Technology</em>
 </pre>
 
@@ -67,27 +67,30 @@
 
 <div align="center">
 <pre><strong> [root@R_NAGA_ARJUN ~]# ./display_workflow.sh </strong>
-  ____________________________________________________________________
- |                                                                    |
- |  [1] ALGORITHMS & PROTOTYPING       [2] RTL IMPLEMENTATION         |
- |      -> Python, C++, LeetCode           -> SystemVerilog           |
- |      -> Logic formulation               -> RISC-V Architecture     |
- |                                                                    |
- |  [3] VERIFICATION & TEST            [4] OPEN SOURCE INTEGRATION    |
- |      -> Verilator, DPI-C                -> Git / GitHub            |
- |      -> Hardware Assertions             -> CI/CD Pipelines         |
- |____________________________________________________________________|
+  _________________________________________________________________________
+ |                                                                         |
+ |  [1] RTL DESIGN & ARCHITECTURE         [2] ASIC FLOW & AUTOMATION       |
+ |      -> SystemVerilog, Verilog             -> RTL to GDSII Flow         |
+ |      -> RISC-V Microarchitecture           -> TCL & Perl Scripting      |
+ |      -> AI/ML Hardware Accelerators        -> Standard Cell Methodology |
+ |                                                                         |
+ |  [3] VERIFICATION & TEST               [4] ALGORITHMS & PROTOTYPING     |
+ |      -> Verilator, DPI-C                   -> Python, C++, LeetCode     |
+ |      -> Hardware Assertions                -> Data Structures & Logic   |
+ |_________________________________________________________________________|
 </pre>
 </div>
 
 ---
 
-### `Previous Repos & Open-Source Work`
+### `grep -r "Experience & Research" ./portfolio/`
 
-|  Project Name |  Description |  Link |
+| Role / Project | Description | Highlights |
 | :--- | :--- | :--- |
-| **BlackParrot** | Contributed safety assertions to a Linux-capable, cache-coherent, RV64G multicore processor. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/black-parrot/black-parrot) |
-| **GaN HEMT Reliability** | TCAD-based optimization of 650V GaN-on-Si HEMTs for EV fast charging applications. | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/RKNAGA18/AlGaN-GaN-HEMT-TCAD.git) |
+| **VLSI Research Intern** <br> *CNVD, VIT* | VLSI implementation of Convolutional Neural Networks (CNNs). | Focused on neuromorphic computing and hardware-accelerated Edge AI via **CrossSim**. |
+| **GaN HEMT Patent Pending** | Novel innovation related to source-connected field plates for 650V GaN-on-Si HEMTs. | Extensive **TCAD device modeling** focusing on reliability optimization for EV fast charging. |
+| **RISC-V Trace Encoder** | Cycle-accurate hardware trace encoder development. | Deepened expertise in open-source silicon and **cycle-accurate verification**. |
+| **BlackParrot Core** | Open-source contribution to a Linux-capable, cache-coherent, RV64G multicore processor. | Implemented and verified hardware safety assertions. |
 
 
 ---
@@ -116,5 +119,5 @@
 ### `sudo wisdom`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=A9A9A9&center=true&vCenter=true&width=800&lines=%22Design+for+constraints.+Build+for+scale.+Contribute+to+the+collective.%22;%22Hardware+eventually+fails.+Software+eventually+works.%22;%22Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds%22" alt="Animated Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=A9A9A9&center=true&vCenter=true&width=800&lines=%22Design+for+constraints.+Build+for+scale.+Contribute+to+the+collective.%22;%22Hardware+eventually+fails.+Software+eventually+works.%22;%22Talk+is+cheap.+Show+me+the+RTL.+%E2%80%94+Adapted+from+Linus+Torvalds%22" alt="Animated Quotes" />
 </p>
