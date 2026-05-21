@@ -88,7 +88,7 @@
 | Role / Project | Description | Highlights |
 | :--- | :--- | :--- |
 | **VLSI Research Intern** <br> *CNVD, VIT* | VLSI implementation of Convolutional Neural Networks (CNNs). | Focused on neuromorphic computing and hardware-accelerated Edge AI via **CrossSim**. |
-| **GaN HEMT Patent Pending** | Novel innovation related to source-connected field plates for 650V GaN-on-Si HEMTs. | Extensive **TCAD device modeling** focusing on reliability optimization for EV fast charging. |
+| **GaN HEMT** | Novel innovation related to source-connected field plates for 650V GaN-on-Si HEMTs. | Extensive **TCAD device modeling** focusing on reliability optimization for EV fast charging. |
 | **RISC-V Trace Encoder** | Cycle-accurate hardware trace encoder development. | Deepened expertise in open-source silicon and **cycle-accurate verification**. |
 | **BlackParrot Core** | Open-source contribution to a Linux-capable, cache-coherent, RV64G multicore processor. | Implemented and verified hardware safety assertions. |
 
