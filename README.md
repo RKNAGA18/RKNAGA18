@@ -85,12 +85,53 @@
 
 ### `grep -r "Experience & Research" ./portfolio/`
 
-| Role / Project | Description | Highlights |
-| :--- | :--- | :--- |
-| **VLSI Research Intern** <br> *CNVD, VIT* | VLSI implementation of Convolutional Neural Networks (CNNs). | Focused on neuromorphic computing and hardware-accelerated Edge AI via **CrossSim**. |
-| **GaN HEMT** | Novel innovation related to source-connected field plates for 650V GaN-on-Si HEMTs. | Extensive **TCAD device modeling** focusing on reliability optimization for EV fast charging. |
-| **RISC-V Trace Encoder** | Cycle-accurate hardware trace encoder development. | Deepened expertise in open-source silicon and **cycle-accurate verification**. |
-| **BlackParrot Core** | Open-source contribution to a Linux-capable, cache-coherent, RV64G multicore processor. | Implemented and verified hardware safety assertions. |
+#  Featured Silicon & Hardware Projects
+
+A curated overview of my custom IP cores, open-source processor contributions, and hardware-accelerated AI research.
+
+---
+
+###  Edge AI NPU & 2x2 Systolic Array
+**Tech Stack:** `SystemVerilog` `Computer Architecture` `Digital Logic`
+* Architected and implemented a 2x2 Systolic Array core optimized for high-throughput matrix multiplication.
+* Designed specialized control logic and data-pipelining for an Edge AI Neural Processing Unit (NPU) focused on executing low-latency machine learning inference directly on custom hardware.
+
+###  High-Speed Networking: 10G Ethernet MAC Core
+**Tech Stack:** `Verilog` `Protocol Logic` `High-Speed Networking`
+* Engineered a high-throughput 10 Gigabit Ethernet Media Access Control (MAC) core supporting line-rate packet processing.
+* Developed robust control state machines to handle custom packet framing, preamble insertion, and strict Inter-Packet Gap (IPG) compliance for reliable data transfer.
+
+###  RTL-to-GDSII Flow & Physical Design Automation
+**Tech Stack:** `OpenROAD` `TCL` `Perl` `SystemVerilog`
+* Mastered the complete ASIC physical design flow from RTL synthesis to GDSII layout generation using the OpenROAD toolchain.
+* Developed custom automation scripts utilizing **TCL** and **Perl** basics to streamline hardware tool execution and standard cell methodology.
+* Built a comprehensive library of parameterized hardware design blocks and verification testbenches during a rigorous `100-Days-of-SystemVerilog` sprint.
+
+###  Generative Audio DSP (SGMSE+) | *Samsung Spatial Hackathon*
+**Tech Stack:** `Python` `Score-Based Generative Models` `Hardware Optimization`
+* Engineered a score-based generative model (SGMSE+) optimized for complex far-field and near-field speech de-reverberation.
+* Synthesized advanced training data pipelines by convolving LibriSpeech and ARNI datasets with artificial Room Impulse Responses (RIRs).
+* Optimized model weights for deployment on resource-constrained hardware to enhance SI-SDR and DNSMOS performance metrics.
+
+###  Open-Source Processor Ecosystem Contributions
+**Tech Stack:** `RISC-V (RV64GC/RV32I)` `Hardware Assertions (SVA)` `Security Integration`
+* **BlackParrot:** Analyzed and contributed hardware safety assertions to the Linux-capable, cache-coherent RV64GC multicore processor ecosystem.
+* **OpenTitan & Ibex:** Explored security-centric silicon design paradigms by reviewing and testing root-of-trust components integrating the heavily parameterized 32-bit RISC-V Ibex CPU.
+
+###  650V GaN HEMT Reliability Optimization & Patent
+**Tech Stack:** `Synopsys TCAD` `Semiconductor Device Physics`
+* Performed advanced 2D TCAD simulations to optimize the breakdown voltage and electric field profiles of 650V GaN-on-Si High Electron Mobility Transistors (HEMTs) targeting EV fast-charging applications.
+* Drafted an innovative patent application focusing on structural modifications utilizing source-connected field plates to maximize power efficiency.
+
+###  Neuromorphic CNN Acceleration (CrossSim)
+**Tech Stack:** `CrossSim` `Hardware-Software Co-Design` `VLSI`
+* Evaluated the analog-intensive hardware implementation of Convolutional Neural Networks (CNNs) using the CrossSim modeling framework.
+* Researched hardware-software co-design methodologies for mapping deep learning models onto neuromorphic memristive arrays.
+
+###  FPGA-Based PCB Defect Detection
+**Tech Stack:** `Machine Learning` `Xilinx Vivado` `FPGA Prototyping`
+* Trained and deployed optimized hardware-level defect classification models for Printed Circuit Boards (PCBs).
+* Successfully synthesized and mapped the ML inference logic onto a Xilinx FPGA board for real-time, hardware-accelerated visual inspection.
 
 
 ---
