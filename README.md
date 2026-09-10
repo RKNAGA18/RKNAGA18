@@ -22,7 +22,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RKNAGA18&style=flat-square&color=F9A825&label=PROFILE+VIEWS&labelColor=0B0F14" alt="Profile Views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RKNAGA18&style=flat-square&color=00FFCC&label=Profile+Views&labelColor=1e1e1e" alt="Views"/>
+</div>
 
 <br><br>
 
