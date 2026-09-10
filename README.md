@@ -65,7 +65,7 @@ cat ~/workspace/profile/config.yaml
   </tr>
 </table>
 
-<img src="./assets/panel-3d-dashboard.svg" width="100%" alt="3D Hardware Activity Dashboard"/>
+<img src="./assets/panel-3d-dashboard-animated.svg" width="100%" alt="3D Hardware Activity Dashboard"/>
 
 Contribution Activity
 
