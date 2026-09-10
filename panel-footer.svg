@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 170">
+  <rect width="1240" height="170" fill="#07090D"/>
+  <rect x="12" y="18" width="1216" height="2" fill="#2563D9"/>
+  <rect x="32" y="42" width="1176" height="92" rx="4" fill="#0B0E13" stroke="#202833"/>
+  <rect x="32" y="42" width="7" height="92" fill="#E11D2E"/>
+  <text x="55" y="70" fill="#D9A62E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2">CONNECT</text>
+  <text x="55" y="94" fill="#F4F7FA" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">rknarjun396@gmail.com</text>
+  <text x="335" y="94" fill="#2563D9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">linkedin.com/in/rnagaarjun18</text>
+  <text x="688" y="94" fill="#E11D2E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">github.com/RKNAGA18</text>
+  <text x="910" y="94" fill="#D9A62E" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">leetcode.com/u/nagaarjun18</text>
+  <text x="55" y="116" fill="#8D98A8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10">OPEN TO INTERNSHIPS, RESEARCH COLLABORATIONS AND HARDWARE PROJECTS</text>
+  <circle cx="310" cy="90" r="4" fill="#D9A62E"/>
+  <circle cx="663" cy="90" r="4" fill="#2563D9"/>
+  <circle cx="892" cy="90" r="4" fill="#E11D2E"/>
+</svg>
