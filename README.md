@@ -30,7 +30,7 @@
 
 </div>
 
-About Me
+## About Me
 
 I am an Electronics Engineering student at Vellore Institute of Technology, specializing in VLSI. My main interests are digital hardware design, ASIC development, computer architecture, RISC-V, and hardware acceleration for AI.
 
@@ -38,9 +38,11 @@ I enjoy working across the hardware stack, from RTL design and verification to s
 
 My current focus is on building practical hardware projects, contributing to open-source silicon projects, and learning more about the complete path from RTL to physical hardware.
 
+
 <img src="./assets/panel-work.svg" width="100%" alt="Engineering and Research"/>
 
-cat ~/workspace/profile/config.yaml
+
+### `cat ~/workspace/profile/config.yaml`
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
@@ -67,7 +69,7 @@ cat ~/workspace/profile/config.yaml
 
 <img src="./assets/panel-3d-dashboard-animated.svg" width="100%" alt="3D Hardware Activity Dashboard"/>
 
-Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <picture>
@@ -76,10 +78,10 @@ Contribution Activity
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RKNAGA18/RKNAGA18/output/github-contribution-grid-snake.svg" width="75%">
   </picture>
 </div>
+<p align="center"><i>The contribution snake is generated automatically from the GitHub activity graph. The repository's snake workflow is configured to use the red, blue and gold palette.</i></p>
 
-The contribution snake is generated automatically from the GitHub activity graph. The repository's snake workflow is configured to use the red, blue and gold palette.
 
-Current Workflow & Tech Stack
+## Current Workflow & Tech Stack
 
 <div align="center">
 <pre><strong>[root@R_NAGA_ARJUN ~]# ./display_workflow.sh</strong>
@@ -98,134 +100,74 @@ Current Workflow & Tech Stack
 </pre>
 </div>
 
-grep -r "Experience & Research" ./portfolio/
+---
 
-Featured Silicon & Hardware Projects
+##  `grep -r "Experience & Research" ./portfolio/`
 
-A curated overview of my custom IP cores, open-source processor contributions, and hardware-accelerated AI research.
+> *A curated overview of my custom IP cores, open-source processor contributions, and hardware-accelerated AI research.*
 
-Edge AI NPU & 2x2 Systolic Array
+###  Edge AI NPU & 2x2 Systolic Array
+* **Tech Stack:** `SystemVerilog` `Computer Architecture` `Digital Logic`
+* Architected and implemented a 2x2 Systolic Array core optimized for high-throughput matrix multiplication.
+* Designed specialized control logic and data-pipelining for an Edge AI Neural Processing Unit (NPU) focused on executing low-latency machine learning inference directly on custom hardware.
 
-Tech Stack: SystemVerilog Computer Architecture Digital Logic
+###  High-Speed Networking: 10G Ethernet MAC Core
+* **Tech Stack:** `Verilog` `Protocol Logic` `High-Speed Networking`
+* Engineered a high-throughput 10 Gigabit Ethernet Media Access Control (MAC) core supporting line-rate packet processing.
+* Developed robust control state machines to handle custom packet framing, preamble insertion, and strict Inter-Packet Gap (IPG) compliance for reliable data transfer.
 
-Architected and implemented a 2x2 Systolic Array core optimized for high-throughput matrix multiplication.
+###  RTL-to-GDSII Flow & Physical Design Automation
+* **Tech Stack:** `OpenROAD` `TCL` `Perl` `SystemVerilog`
+* Worked through the complete ASIC physical design flow from RTL synthesis to GDSII layout generation using the OpenROAD toolchain.
+* Developed custom automation scripts utilizing TCL and Perl to streamline hardware tool execution and standard cell methodology.
+* Built a library of parameterized hardware design blocks and verification testbenches during a 100-Days-of-SystemVerilog sprint.
 
-Designed specialized control logic and data-pipelining for an Edge AI Neural Processing Unit (NPU) focused on executing low-latency machine learning inference directly on custom hardware.
+###  Generative Audio DSP (SGMSE+) | Samsung Spatial Hackathon
+* **Tech Stack:** `Python` `Score-Based Generative Models` `Hardware Optimization`
+* Engineered a score-based generative model (SGMSE+) for far-field and near-field speech de-reverberation.
+* Built training data pipelines by convolving LibriSpeech and ARNI datasets with artificial Room Impulse Responses (RIRs).
+* Explored model-weight optimization for deployment on resource-constrained hardware. Evaluated performance using SI-SDR and DNSMOS metrics.
 
-High-Speed Networking: 10G Ethernet MAC Core
+###  Open-Source Processor Ecosystem Contributions
+* **Tech Stack:** `RISC-V (RV64GC/RV32I)` `Hardware Assertions (SVA)` `Security Integration`
+* **BlackParrot:** Analyzed and contributed hardware safety assertions to the Linux-capable, cache-coherent RV64GC multicore ecosystem.
+* **OpenTitan & Ibex:** Explored security-centric silicon design paradigms by reviewing and testing root-of-trust components based on the parameterized 32-bit RISC-V Ibex CPU.
 
-Tech Stack: Verilog Protocol Logic High-Speed Networking
+###  650V GaN HEMT Reliability Optimization & Patent
+* **Tech Stack:** `Synopsys TCAD` `Semiconductor Device Physics`
+* Performed advanced 2D TCAD simulations to optimize breakdown voltage and electric-field profiles of 650V GaN-on-Si High Electron Mobility Transistors (HEMTs) targeting EV fast-charging applications.
+* Drafted an innovative patent application focusing on structural modifications using source-connected field plates to improve power efficiency.
 
-Engineered a high-throughput 10 Gigabit Ethernet Media Access Control (MAC) core supporting line-rate packet processing.
+###  Neuromorphic CNN Acceleration (CrossSim)
+* **Tech Stack:** `CrossSim` `Hardware-Software Co-Design` `VLSI`
+* Evaluated analog-intensive hardware implementations of Convolutional Neural Networks (CNNs) using the CrossSim modeling framework.
+* Researched hardware-software co-design methodologies for mapping deep learning models onto neuromorphic memristive arrays.
 
-Developed robust control state machines to handle custom packet framing, preamble insertion, and strict Inter-Packet Gap (IPG) compliance for reliable data transfer.
+###  FPGA-Based PCB Defect Detection
+* **Tech Stack:** `Machine Learning` `Xilinx Vivado` `FPGA Prototyping`
+* Trained and deployed optimized hardware-level defect classification models for Printed Circuit Boards (PCBs).
+* Synthesized and mapped the ML inference logic onto a Xilinx FPGA board for real-time, hardware-accelerated visual inspection.
 
-RTL-to-GDSII Flow & Physical Design Automation
+---
 
-Tech Stack: OpenROAD TCL Perl SystemVerilog
+##  `./stack --list`
 
-Worked through the complete ASIC physical design flow from RTL synthesis to GDSII layout generation using the OpenROAD toolchain.
+* **Hardware Design:** SystemVerilog, Verilog, OpenROAD, Xilinx Vivado, Synopsys TCAD, CrossSim
+* **Programming & Automation:** Python, C/C++, TCL, Perl, Machine Learning
 
-Developed custom automation scripts utilizing TCL and Perl to streamline hardware tool execution and standard cell methodology.
+##  Open-Source & Research Interests
 
-Built a library of parameterized hardware design blocks and verification testbenches during a 100-Days-of-SystemVerilog sprint.
+> *I am interested in projects that connect hardware architecture with practical system implementation.*
 
-Generative Audio DSP (SGMSE+) | Samsung Spatial Hackathon
+* ASIC and RTL design & RISC-V processor architecture
+* Hardware verification, assertions, and RTL-to-GDSII automation
+* AI/ML hardware accelerators & Edge AI computing
+* Neuromorphic computing & semiconductor device optimization
+* FPGA prototyping & Open-source silicon ecosystems
 
-Tech Stack: Python Score-Based Generative Models Hardware Optimization
+---
 
-Engineered a score-based generative model (SGMSE+) for far-field and near-field speech de-reverberation.
-
-Built training data pipelines by convolving LibriSpeech and ARNI datasets with artificial Room Impulse Responses (RIRs).
-
-Explored model-weight optimization for deployment on resource-constrained hardware.
-
-Evaluated performance using SI-SDR and DNSMOS metrics.
-
-Open-Source Processor Ecosystem Contributions
-
-Tech Stack: RISC-V (RV64GC/RV32I) Hardware Assertions (SVA) Security Integration
-
-BlackParrot: Analyzed and contributed hardware safety assertions to the Linux-capable, cache-coherent RV64GC multicore processor ecosystem.
-
-OpenTitan & Ibex: Explored security-centric silicon design paradigms by reviewing and testing root-of-trust components based on the parameterized 32-bit RISC-V Ibex CPU.
-
-650V GaN HEMT Reliability Optimization & Patent
-
-Tech Stack: Synopsys TCAD Semiconductor Device Physics
-
-Performed advanced 2D TCAD simulations to optimize breakdown voltage and electric-field profiles of 650V GaN-on-Si High Electron Mobility Transistors (HEMTs) targeting EV fast-charging applications.
-
-Drafted an innovative patent application focusing on structural modifications using source-connected field plates to improve power efficiency.
-
-Neuromorphic CNN Acceleration (CrossSim)
-
-Tech Stack: CrossSim Hardware-Software Co-Design VLSI
-
-Evaluated analog-intensive hardware implementations of Convolutional Neural Networks (CNNs) using the CrossSim modeling framework.
-
-Researched hardware-software co-design methodologies for mapping deep learning models onto neuromorphic memristive arrays.
-
-FPGA-Based PCB Defect Detection
-
-Tech Stack: Machine Learning Xilinx Vivado FPGA Prototyping
-
-Trained and deployed optimized hardware-level defect classification models for Printed Circuit Boards (PCBs).
-
-Synthesized and mapped the ML inference logic onto a Xilinx FPGA board for real-time, hardware-accelerated visual inspection.
-
-./stack --list
-
-<div align="center">
-
-Hardware Design
-
-
-
-
-
-
-
-
-
-Programming & Automation
-
-
-
-
-
-
-
-
-
-
-</div>
-
-Open-Source & Research Interests
-
-I am interested in projects that connect hardware architecture with practical system implementation.
-
-ASIC and RTL design
-
-RISC-V processor architecture
-
-Hardware verification and assertions
-
-RTL-to-GDSII automation
-
-AI and machine-learning accelerators
-
-Edge AI hardware
-
-Neuromorphic computing
-
-FPGA prototyping
-
-Semiconductor device optimization
-
-Open-source silicon
-
-git stats --all
+##  `git stats --all`
 
 <div align="center">
 
@@ -253,9 +195,11 @@ git stats --all
 
 </div>
 
+<br>
+
 <img src="./assets/panel-footer.svg" width="100%" alt="Contact and Footer"/>
 
-sudo wisdom
+### `sudo wisdom`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=F9A825&center=true&vCenter=true&width=850&lines=%22Design+for+constraints.+Build+for+scale.+Contribute+to+the+collective.%22;%22Hardware+eventually+fails.+Software+eventually+works.%22;%22Talk+is+cheap.+Show+me+the+RTL.+%E2%80%94+Adapted+from+Linus+Torvalds%22" alt="Animated Quotes"/>
